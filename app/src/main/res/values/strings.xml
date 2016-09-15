@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetrofitEx</string>
+    <string name="new_task">New Task</string>
+    <string name="see_tasks">See all tasks</string>
+    <string name="get_task_by_id">Get task by id</string>
+    <string name="get_task_by_asignee">Get tasks by asignee</string>
+    <string name="update_task">Update tag</string>
+</resources>
